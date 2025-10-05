@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 I’m currently working on machine learning and data science
+
 <!--
 **dchong1/dchong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
