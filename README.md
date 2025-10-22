@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="1195" height="282" alt="image" src="https://github.com/user-attachments/assets/5a1bd954-3d70-4f2d-9f22-920b23649d80" />
+<img width="1189" height="262" alt="image" src="https://github.com/user-attachments/assets/9383d595-5072-449e-b32b-3c502d2818fa" />
 
 
 🔭 I’m currently working on machine learning and data science
