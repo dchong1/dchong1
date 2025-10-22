@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img width="1195" height="282" alt="image" src="https://github.com/user-attachments/assets/5a1bd954-3d70-4f2d-9f22-920b23649d80" />
+
 
 🔭 I’m currently working on machine learning and data science
 
